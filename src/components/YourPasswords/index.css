@@ -1,0 +1,75 @@
+.card-1 {
+  background-color: #7683cb;
+}
+.card-2 {
+  background-color: #f59e0b;
+}
+.card-3 {
+  background-color: #10b981;
+}
+.card-4 {
+  background-color: #f97316;
+}
+.card-5 {
+  background-color: #14b8a6;
+}
+.card-6 {
+  background-color: #b91c1c;
+}
+.card-7 {
+  background-color: #0ea5e9;
+}
+.card-8 {
+  background-color: #64748b;
+}
+
+.no-passwords-image {
+  width: 300px;
+}
+.no-password-message {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.website-list-item {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  border: 1px solid #94a3b8;
+  border-radius: 5px;
+  width: 30%;
+  align-self: flex-start;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.initial-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 700;
+  width: 40px;
+  height: 40px;
+}
+.details-card {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  line-height: 0.5;
+  font-size: 10px;
+}
+.delete-icon {
+  width: 20px;
+}
+.delete-button {
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+}
+.masked-password {
+  width: 80px;
+}
